@@ -1,0 +1,16 @@
+This is a start of "Tom's Wikipedia filter list".
+
+It's a very simple list of images I don't want to see.
+
+The inclusion criteria is completely personal: pictures I wouldn't wish to see
+on Wikipedia if I had my screen in public view of others on a crowded commuter
+train to London.
+
+If you wish to make your own version, hey, it's on Github. Feel free to fork it
+and make your own.
+
+When I can be bothered, I'll make some tools for managing the list.
+
+TODO:
+* pull in stuff from Bad Images List
+* pull in stuff from the usual categories on Commons
