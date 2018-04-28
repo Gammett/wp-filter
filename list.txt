@@ -1,7 +1,57 @@
-[Adblock_Plus_0.7.1]
-!   Tom's Wiki-on-the-train_list, http://tommorris.org
-!   generated on 01/23/13 21:21:00
-! 78 entries
+Formatted Images
+
+Section: Nudity;
+
+Section: Informational;
+https://upload.wikimedia.org/wikipedia/commons/e/e5/Anterior_view_of_human_female_and_male%2C_with_labels_2.png
+
+Section: Art;
+https://upload.wikimedia.org/wikipedia/commons/6/67/Aphrodite_Anadyomene_from_Pompeii_cropped.jpg
+https://upload.wikimedia.org/wikipedia/commons/c/cd/Roman_Venus_MBA_Lyon_L83.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/fe/Roman_-_Venus_-_Walters_54966.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e8/Seduzione_tra_marte_e_venere%2C_alla_presenza_di_un_amorino_e_ancella%2C_da_casa_dell%27amore_punito_a_pompei%2C_9249%2C_02.JPG
+https://upload.wikimedia.org/wikipedia/commons/3/33/Anquises_y_Afrodita_-_Afrodisias.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/28/Ares_e_Afrodite.JPG
+https://upload.wikimedia.org/wikipedia/commons/d/d0/Statue_of_nude_Venus_of_the_Capitoline_type%2C_Roman%2C_2nd_century_AD%2C_from_Campo_Iemini%2C_housed_in_the_British_Museum.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/45/Jacopo_Tintoretto_-_Venus%2C_Mars%2C_and_Vulcan_-_WGA22664.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/55/TITIAN_-_Venus_Anadyomene_%28National_Galleries_of_Scotland%2C_c._1520._Oil_on_canvas%2C_75.8_x_57.6_cm%29.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/64/Titian_-_Venus_with_a_Mirror_-_Google_Art_Project.jpg
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/M%C3%A5lning._Venus._Frans_Floris_-_Hallwylska_museet_-_86707.tif/lossy-page1-800px-M%C3%A5lning._Venus._Frans_Floris_-_Hallwylska_museet_-_86707.tif.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/1b/0_V%C3%A9nus_et_Cupidon_-_P.P._Rubens_-_Mus%C3%A9e_Thyssen-Bornemisza_%282%29.JPG
+https://upload.wikimedia.org/wikipedia/commons/d/d7/Jacques-Louis_David_-_Mars_desarme_par_Venus.JPG
+https://upload.wikimedia.org/wikipedia/commons/b/b2/Alexandre_Cabanel_-_The_Birth_of_Venus_-_Google_Art_Project_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/87/Tannh%C3%A4user_en_el_Venusberg%2C_por_John_Collier.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/40/Kustodiev_russian_venus.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/09/Capitoline_Wolf_of_Roman_Kingdom.svg
+https://upload.wikimedia.org/wikipedia/commons/1/1d/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_006.jpg
+
+Section: Brutality;
+
+https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Liberation_of_Bergen-belsen_Concentration_Camp%2C_April_1945_BU4031.jpg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+Unformated
 upload.wikimedia.org/*/02_Schamlippen.jpg/*
 upload.wikimedia.org/*/2-Finger-Technik-unter-Oberschenkel_640x480.gif/*
 upload.wikimedia.org/*/A_Foreskin_Retraction_Series.JPG/*
@@ -81,3 +131,4 @@ upload.wikimedia.org/*/Vulva.JPG/*
 upload.wikimedia.org/*/Wiki-pegging.png/*
 upload.wikimedia.org/*/Woman_masturbating_with_improvised_vibrator.jpg/*
 upload.wikimedia.org/*/Y_genital.jpg/*
+*/
